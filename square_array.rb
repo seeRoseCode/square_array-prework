@@ -5,5 +5,5 @@ def square_array(array)
     n ** 2
   end
 
-  squared.each.push
+  array.push(squared)
 end
