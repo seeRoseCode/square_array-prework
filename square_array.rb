@@ -5,5 +5,5 @@ def square_array(array)
     n ** 2
   end
 
-  array = square 
+  array = squared 
 end
