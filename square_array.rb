@@ -4,6 +4,6 @@ def square_array(array)
   array.each do |n|
     n ** 2
   end
-
-  array = squared.push(array.each do |n| n**2 end) 
+  
+squared
 end
